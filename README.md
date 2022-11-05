@@ -33,7 +33,7 @@ The purpouse of this project was to create a simple poll of games for the next F
 ### Links
 
 - Github URL: [Github solution](https://github.com/nettopasquale/nlw-copa-explorer)
-- Live Vercel URL: [Vercel live site]()
+- Live Vercel URL: [Vercel live site](https://nlw-copa-explorer-vert.vercel.app/)
 
 ## My process
 
